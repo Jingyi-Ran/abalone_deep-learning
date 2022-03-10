@@ -1,1 +1,1 @@
-# abalone_deep-learning
+I actually started the abalone_deep-learning notebook 2 weeks earlier but when I was organizing the data, I couldn't go around converting non-numerical data to numerical. Yesterday I found out a way to do this so finally finished this project! The dataset is downloaded from https://www.kaggle.com/rodolfomendes/abalone-dataset.
